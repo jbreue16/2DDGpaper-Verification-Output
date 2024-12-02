@@ -1,2 +1,0 @@
-Output repo commit message	Output repo branch	Output repo commit hash	Project repo commit hash	Project repo folder name	Project repo remotes	Python sys args	Tags	Options hash
-Benchmarks for 2DDG 3-zone radial inlet variance convergence; 	2024-11-28_16-45-44_main_a0d7ea0	a63f8f029747425fbf0529e5f56f69b9523e46f7	a0d7ea02d7beaf305b09f6fbb6fbfe60cd16f8c8	2ddgpaper-verification	['https://github.com/jbreue16/2DDGpaper-Verification.git']	['c:\\users\\jmbr\\software\\2ddgpaper-verification\\src\\test_cadet_core\\2ddgpaperverification.py']		None
