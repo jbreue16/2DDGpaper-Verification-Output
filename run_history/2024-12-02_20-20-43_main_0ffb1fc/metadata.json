@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Benchmarks for 2DDG 2-zone radial inlet variance convergence; ",
+  "Output repo branch": "2024-12-02_20-20-43_main_0ffb1fc",
+  "Output repo commit hash": "6e35c4e850ead95348246ac8b1f61b9808eb8d12",
+  "Project repo commit hash": "0ffb1fc6d81fe2538ec97c78a127b34870a7e2e8",
+  "Project repo folder name": "2ddgpaper-verification",
+  "Project repo remotes": [
+    "https://github.com/jbreue16/2DDGpaper-Verification.git"
+  ],
+  "Python sys args": "['c:\\\\users\\\\jmbr\\\\software\\\\2ddgpaper-verification\\\\src\\\\test_cadet_core\\\\2ddgpaperverification.py']",
+  "Tags": "",
+  "Options hash": null
+}
