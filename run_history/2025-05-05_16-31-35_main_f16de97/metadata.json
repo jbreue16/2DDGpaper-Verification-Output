@@ -1,0 +1,13 @@
+{
+  "Output repo commit message": "Test: Compare FV and DG convergence to analytical and numerical reference; ",
+  "Output repo branch": "2025-05-05_16-31-35_main_f16de97",
+  "Output repo commit hash": "7a8af425ffcaac076a2145f925d946300a9f56ce",
+  "Project repo commit hash": "f16de979931c879cc4a5fb6b0b11368024a6e3e4",
+  "Project repo folder name": "verify-dg2d",
+  "Project repo remotes": [
+    "https://github.com/jbreue16/2DDGpaper-Verification.git"
+  ],
+  "Python sys args": "['c:\\\\users\\\\jmbr\\\\software\\\\verify-dg2d\\\\src\\\\test_cadet_core\\\\compare_anaref_numref_convergence.py']",
+  "Tags": "",
+  "Options hash": null
+}
