@@ -1,2 +1,0 @@
-Output repo commit message	Output repo branch	Output repo commit hash	Project repo commit hash	Project repo folder name	Project repo remotes	Python sys args	Tags	Options hash
-Test: Compare FV and DG convergence to analytical and numerical reference; 	2025-05-05_16-21-43_main_acddc6c	5ebe0e4060043776c7564b5adcb8e3db439ee222	acddc6c2e2160aeba808d99ddc546638b8895cf2	verify-dg2d	['https://github.com/jbreue16/2DDGpaper-Verification.git']	['c:\\users\\jmbr\\software\\verify-dg2d\\src\\test_cadet_core\\compare_anaref_numref_convergence.py']		
